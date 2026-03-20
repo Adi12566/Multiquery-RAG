@@ -57,7 +57,7 @@ streamlit run RAG-PDF-3.0.py
 
 1. Upload a PDF using the sidebar
 2. Wait for indexing to complete
-3. Ask questions about the document — or just chat
+3. Ask questions about the document - or just chat
 
 ---
 
