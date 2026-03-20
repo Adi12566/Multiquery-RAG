@@ -9,7 +9,6 @@ A conversational RAG (Retrieval-Augmented Generation) agent that lets you chat w
 - **MultiQuery RAG** - generates multiple query phrasings per question for broader, more accurate retrieval
 - **Intent routing** - casual messages go directly to the LLM; document questions are routed through the full RAG pipeline
 - **Verbatim citations** - answers include exact quoted passages and page numbers from the source PDF
-- **Inline PDF viewer** - view the document alongside the chat (toggle-ready)
 - **FAISS vector index** - fast local similarity search over document chunks
 
 ---
